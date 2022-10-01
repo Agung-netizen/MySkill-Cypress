@@ -1,0 +1,17 @@
+{
+  "name": "myskill-cypress",
+  "version": "1.0.0",
+  "description": "myskill-cypress demo",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "alvin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0"
+  }
+}
