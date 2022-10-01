@@ -14,5 +14,5 @@ npm install cypress --save-dev
 ```
 4. Run test with cypress
 ```
-npm run test
+npm run cypress
 ```
